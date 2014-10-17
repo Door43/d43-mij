@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mij:home|Door43 (mij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mij|d43-mij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mij/archive/master.zip|d43-mij.zip]]
+
+**Recent Changes**
+{{changes>ns = mij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mij|Ethnologue data]]
+
